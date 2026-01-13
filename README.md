@@ -4,9 +4,7 @@
 Add your profile details here
 
 # Mitch Parker
-**mparker2**
-*Junior*
-*VMAP Major, Compsci Minor*
+**mparker2** | *Junior* | *VMAP Major, Compsci Minor*
 
 ## hobbies
 * Rock Climbing
