@@ -1,6 +1,6 @@
 # Mitch Parker
 
-![That's me!](https://bannerweb.richmond.edu/StudentSelfService/ssb/studentPicture/picture?bannerId=34738654)
+![That's me!](IMG_8431.jpg)
 
 **mparker2** | *Junior* | *VMAP Major, Compsci Minor*
 
